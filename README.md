@@ -3,8 +3,7 @@
 ## Deep-Learning
 Deep Learning Course - Fall 2022
 
-
-My solutions to IUST's Computer Vision course homeworks and final project, Fall 2022.
+My solutions to IUST's Deep Learning course homeworks, Fall 2022.
 
 Here's what it contains:
 * HW1: Intro to Keras and Pytorch
